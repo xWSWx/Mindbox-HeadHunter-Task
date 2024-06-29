@@ -14,7 +14,7 @@
     <PackageReadmeFile>ReadMe.MD</PackageReadmeFile>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
-    <Version>1.0.1</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>

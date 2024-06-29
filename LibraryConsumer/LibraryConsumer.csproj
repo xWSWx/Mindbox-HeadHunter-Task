@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MindboxHeadHunterTask-WSW" Version="1.0.1" />
+    <PackageReference Include="MindboxHeadHunterTask-WSW" Version="1.0.4" />
   </ItemGroup>
 
 </Project>
