@@ -1,6 +1,6 @@
 # Отклик Ивана на вакансию
-https://hh.ru/resume/bab5be45ff032a5fb40039ed1f335a4147665a
-https://hh.ru/vacancy/100472094?hhtmFrom=vacancy_response
+#### https://hh.ru/resume/bab5be45ff032a5fb40039ed1f335a4147665a
+#### https://hh.ru/vacancy/100472094?hhtmFrom=vacancy_response
 ## Первая задачка:
 Напишите на C# библиотеку для поставки внешним клиентам, которая умеет вычислять площадь круга по радиусу и треугольника по трем сторонам. Дополнительно к работоспособности оценим:
 Юнит-тесты
